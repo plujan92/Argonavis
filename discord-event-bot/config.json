@@ -1,0 +1,5 @@
+{
+  "token": "YOUR_DISCORD_BOT_TOKEN",
+  "guildId": "YOUR_GUILD_ID",
+  "channelId": "CHANNEL_FOR_NOTIFICATIONS"
+}
